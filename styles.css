@@ -1,0 +1,30 @@
+body {
+  background-image: url("https://images.pexels.com/photos/2836955/pexels-photo-2836955.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+  background-repeat:no-repeat;
+  background-size: cover;
+  color: white;
+  font-family:cursive;
+}
+
+.main {
+  position: relative;
+  text-align: center;
+}
+
+.my_game {
+  padding-top: 25px;
+  padding-bottom: 30px;
+}
+
+.form {
+  padding-top:30px;
+  font-size: 2rem;
+}
+
+p {
+  font-size: 20px;
+}
+
+.foot {
+  padding-top: 200px;
+}
